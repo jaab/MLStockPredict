@@ -39,7 +39,7 @@ The project can be developed and run using any Python-compatible IDE. Some popul
 
 0. Clone the repository:
    ```bash
-   git clone https://github.com/jaab/stock-analysis-project.git
+   git clone https://github.com/jaab/MLStockPredict.git
 
 1. Install required Python libraries:
    pip install tkinter pandas yahoo_fin matplotlib scikit-learn,...
